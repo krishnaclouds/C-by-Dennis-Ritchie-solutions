@@ -11,3 +11,7 @@ Do try solving the problems, before you look into the repo.
 Just follow the usual Fork -> Commit -> push -> push request Dance
 
 P.S: I started working on this project on 1st April 2018. So, lets see how long will take me to solve them all. Cheers. 
+
+## Solutions
+
+##### <a href="https://github.com/krishnaclouds/C-by-Dennis-Ritchie-solutions/tree/master/Chapter%20-%201"> Chapter 1 </a>
