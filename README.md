@@ -15,3 +15,9 @@ P.S: I started working on this project on 1st April 2018. So, lets see how long 
 ## Solutions
 
 ##### <a href="https://github.com/krishnaclouds/C-by-Dennis-Ritchie-solutions/tree/master/Chapter%20-%201"> Chapter 1 </a>
+
+## Running a C Program in Linux
+gcc -o  "Desired Output file name" ".c File to run"
+```c
+gcc -o hello hello.c
+```
