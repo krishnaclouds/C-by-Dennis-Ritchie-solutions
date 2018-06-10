@@ -8,7 +8,8 @@ int main(void){
 
     STATE = OUT;
 
-    while ((c = getchar()) != EOF){
+    while ((c = getchar()) != EOF){=[]
+    
         ++nc;
         if (c == '\n'){
             ++nl;
